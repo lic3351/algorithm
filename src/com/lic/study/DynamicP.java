@@ -12,7 +12,7 @@ public class DynamicP {
 		}
 		
 		public static int cut_rod(int[] p,int n){
-			int q=-1;
+			int q=-1; 
 			if(0==n)return 0;
 			for(int i=1;i<=n;i++){
 				
